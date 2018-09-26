@@ -1,10 +1,11 @@
 # Udacity Front-end Project 
+
 ## Feed reader Testing
 
 This project uses jasmine to test the functionality of a feed reader website. 
 
 ### Instructions
-To view the feed reader website download all the files and open index.html in your browser.
+To view the feed reader clone this repository and open index.html in your browser.
 
 Alternatively, you can view the site on github pages by using the link below.
 
@@ -20,4 +21,4 @@ Initial Entries:
 New Feed Selection:
 * Feed content changes when new feed is selected
 
-To view the feed reader testing site on github pages go to
+To view the feed reader testing site online through github pages go to  https://fateinn.github.io/feedreader/
